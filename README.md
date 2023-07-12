@@ -1,4 +1,4 @@
-# Projeto React e API's - link -   https://crabby-owner.surge.sh/
+# Projeto React e API's  -  link -   https://crabby-owner.surge.sh/
 ![Projeto React e API's](https://github.com/manassesdev2/projeto-pokedex/blob/master/readme-image/projeto-pokedex.gif)
 O Projeto React e APIs tem como fonte de dados para a sua criação a Poke Api, uma Api pública, muito usada para aplicações focadas em aprendizado de programação e também usada em cases de processos seletivos.
 
